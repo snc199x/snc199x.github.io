@@ -8,6 +8,12 @@
   </url>
   
   <url>
+    <loc>https://snc199x.github.io/categories/</loc>
+    <lastmod>2019-05-20T01:02:17+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://snc199x.github.io/</loc>
     <lastmod>2019-05-20T01:02:17+08:00</lastmod>
     <priority>0</priority>
@@ -20,12 +26,20 @@
   </url>
   
   <url>
-    <loc>https://snc199x.github.io/categories/</loc>
+    <loc>https://snc199x.github.io/tags/</loc>
+    <lastmod>2019-05-20T01:02:17+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://snc199x.github.io/tags/</loc>
+    <loc>https://snc199x.github.io/tags/%E5%9B%BD%E5%86%85/</loc>
+    <lastmod>2019-05-20T01:02:17+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snc199x.github.io/categories/%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2019-05-20T01:02:17+08:00</lastmod>
     <priority>0</priority>
   </url>
   
