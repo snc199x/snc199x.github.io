@@ -607,6 +607,11 @@ body.nav-opened .site-wrapper {
     font-family: 'Open Sans', sans-serif;
 }
 
+.content {
+    margin: 3rem 2rem 5rem;
+}
+
+
 /* Navigation */
 body.nav-opened .nav-cover {
     position: fixed;
