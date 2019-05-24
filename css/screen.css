@@ -607,10 +607,20 @@ body.nav-opened .site-wrapper {
     font-family: 'Open Sans', sans-serif;
 }
 
-.content {
+#content.content {
     margin: 3rem 2rem 5rem;
-}
 
+}
+.artical-right {
+    
+    float: right;
+    width: 400px;
+}
+.catags-left {
+    margin-right: 20px;
+    float:left;
+    width: 200px;
+}
 
 /* Navigation */
 body.nav-opened .nav-cover {
