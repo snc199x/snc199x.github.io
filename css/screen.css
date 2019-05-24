@@ -614,12 +614,12 @@ body.nav-opened .site-wrapper {
 .artical-right {
     
     float: right;
-    width: 400px;
+    width: 80%;
 }
 .catags-left {
     margin-right: 20px;
     float:left;
-    width: 200px;
+    width: 15%;
 }
 
 /* Navigation */
