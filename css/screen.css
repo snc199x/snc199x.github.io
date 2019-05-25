@@ -616,15 +616,14 @@ body.nav-opened .site-wrapper {
     
 }
 .artical-right {
+    margin-left: 300px;
     
-    float: right;
-    width: 80%;
 }
 .catags-left {
     margin-right: 20px;
     float:left;
     width: 15%;
-    margin-left: 60px;
+    margin-left: 40px;
     margin-top: 40px;
 }
 
@@ -643,6 +642,7 @@ body.nav-opened .site-wrapper {
 .span-name {
     font-family: fantasy;
     font-size: 18px;
+    text-align: center;
 }
 
 /* Navigation */
@@ -1046,6 +1046,7 @@ body.nav-opened .menu-button .word {
     -ms-hyphens: auto;
     -webkit-hyphens: auto;
     hyphens: auto;
+    padding: 35px;
 }
 
 /* Add a little circle in the middle of the border-bottom on our .post
