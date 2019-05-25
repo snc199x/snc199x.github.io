@@ -354,6 +354,10 @@ dl dd {
 
 li {
     margin: 0.4em 0;
+    text-align:center;
+    border:2px solid #8b96a7;
+    border-radius:25px;
+    font-size: 15px
 }
 
 li li {
@@ -620,6 +624,8 @@ body.nav-opened .site-wrapper {
     margin-right: 20px;
     float:left;
     width: 15%;
+    margin-left: 60px;
+    margin-top: 40px;
 }
 
 .tags-top {
@@ -633,6 +639,11 @@ body.nav-opened .site-wrapper {
     margin-left: 0px;
     display: flex;
   }
+
+.span-name {
+    font-family: fantasy;
+    font-size: 18px;
+}
 
 /* Navigation */
 body.nav-opened .nav-cover {
