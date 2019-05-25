@@ -700,6 +700,19 @@ body.nav-opened .nav {
             transform: translate3D(0, 0, 0);
 }
 
+.ab-logo {
+    margin-top: 50px;    
+    font-size: 13px;
+    text-align: center;
+}
+
+.ab-desc {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 13px;
+    margin-bottom: 150px;
+}
+
 .nav-title {
     position: absolute;
     top: 45px;
@@ -837,7 +850,35 @@ body.nav-opened .nav {
     transition: all ease 0.3s;
 }
 .subscribe-button:before {
-    font-size: 9px;
+    
+    margin-right: 6px;
+}
+
+.email-button {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;   
+    bottom: 30px;
+    width: 180px;
+    height: 38px;
+    padding: 0 20px;
+    color: #111 !important;
+    text-align: center;
+    font-size: 12px;
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    line-height: 35px;
+    border-radius: 3px;
+    background: #fff;
+    transition: all ease 0.3s;
+    margin-left: 30px;
+
+   
+}
+
+.email-button:before {
     margin-right: 6px;
 }
 
