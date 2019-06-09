@@ -361,7 +361,7 @@ dl dd {
 li {
     margin: 0.4em 0;
     text-align:center;
-    border:2px solid #8b96a7;
+    /*border:2px solid #8b96a7;*/
     border-radius:25px;
     font-size: 15px
 }
@@ -610,11 +610,13 @@ body.nav-opened .site-wrapper {
     position: relative;
     padding: 35px 40px;
     margin: 0 0 30px 0;
+
 }
 
 .main-nav a {
     text-decoration: none;
     font-family: 'Open Sans', sans-serif;
+    display: flex;
 }
 
 #content.content {
@@ -622,8 +624,7 @@ body.nav-opened .site-wrapper {
     
 }
 .artical-right {
-    margin-left: 120px;
-    
+    margin-left: 10px;    
 }
 .catags-left {
     margin-right: 20px;
@@ -716,11 +717,16 @@ body.nav-opened .nav {
 .nav-title {
     position: absolute;
     top: 45px;
-    left: 30px;
+    left: 25px;
     font-size: 16px;
     font-weight: 100;
     text-transform: uppercase;
     color: #fff;
+}
+
+.nav-li-title {
+    font-size: 18px;
+    font-family: -webkit-pictograph;
 }
 
 .nav-close {
@@ -768,7 +774,7 @@ body.nav-opened .nav {
 }
 
 .nav ul {
-    padding: 90px 9% 5%;
+    padding: 30px 9% 5%;
     list-style: none;
     counter-reset: item;
 }
@@ -832,7 +838,7 @@ body.nav-opened .nav {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     display: block;
-    position: absolute;
+    position: relative;
     bottom: 30px;
     left: 30px;
     right: 30px;
@@ -848,6 +854,7 @@ body.nav-opened .nav {
     border-radius: 3px;
     background: #fff;
     transition: all ease 0.3s;
+    width: 180px;
 }
 .subscribe-button:before {
     
@@ -991,6 +998,27 @@ body.nav-opened .menu-button .word {
     transition: all 0.3s ease;
 }
 
+.cate-button {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: inline-block;
+    float: right;
+    height: 38px;
+    padding: 0 15px;
+    border: #bfc8cd 1px solid;
+    opacity: 1;
+    color: #9EABB3;
+    text-align: center;
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 35px;
+    white-space: nowrap;
+    border-radius: 3px;
+    background: rgba(0,0,0,0.1);
+    transition: all 0.5s ease;
+}
+
 /* Special styles when overlaid on an image*/
 .main-nav.overlay {
     position: absolute;
@@ -1014,6 +1042,9 @@ body.nav-opened .menu-button .word {
     border-color: rgba(255,255,255,0.6);
 }
 
+.main-nav.overlay .cate-button {
+    border-color: rgba(255,255,255,0.6);
+}
 .main-nav.overlay a:hover {
     color: #222;
     border-color: #fff;

@@ -15,12 +15,11 @@
 
         $(".scroll-down").arctic_scroll();
 
-        $(".menu-button[href='#'], .nav-cover, .nav-close").on("click", function(e){
+        $(".cate-button[href='#'], .nav-cover, .nav-close").on("click", function(e){
             e.preventDefault();
-            $("body").toggleClass("nav-opened nav-closed");
-        });
 
-        
+            //$("body").toggleClass("nav-opened nav-closed");
+        });
 
     });
 
