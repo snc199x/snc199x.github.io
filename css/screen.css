@@ -1096,8 +1096,8 @@ body.nav-opened .menu-button .word {
 }
 
 .no-cover .main-nav.overlay .menu-button {
-    color: rgba(0,0,0,0.4);
-    border-color: rgba(0,0,0,0.3);
+    rgba(23, 22, 22, 0.98);
+    border-color: rgb(26, 25, 25);
 }
 
 /* Add subtle load-in animation for content on the home page */
