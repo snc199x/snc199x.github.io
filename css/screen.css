@@ -1095,9 +1095,10 @@ body.nav-opened .menu-button .word {
     color: rgba(0,0,0,0.5);
 }
 
+/*菜单按钮样式*/
 .no-cover .main-nav.overlay .menu-button {
-    rgba(23, 22, 22, 0.98);
-    border-color: rgb(26, 25, 25);
+    color:#2e2e2e;
+    border-color: #2e2e2e;
 }
 
 /* Add subtle load-in animation for content on the home page */
