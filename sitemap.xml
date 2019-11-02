@@ -50,7 +50,13 @@
   </url>
   
   <url>
-    <loc>https://snc199x.github.io/tags/%E8%BF%9E%E7%8E%AF%E8%B0%8B%E6%9D%80/</loc>
+    <loc>https://snc199x.github.io/tags/%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA/</loc>
+    <lastmod>2019-11-02T19:13:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://snc199x.github.io/tags/%E9%AA%97%E4%BF%9D/</loc>
     <lastmod>2019-11-02T19:13:46+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -61,7 +67,7 @@
   </url>
   
   <url>
-    <loc>https://snc199x.github.io/tags/%E6%83%85%E8%89%B2%E7%BA%A0%E7%BA%B7/</loc>
+    <loc>https://snc199x.github.io/tags/%E6%83%85%E8%89%B2/</loc>
     <lastmod>2019-10-12T19:52:15+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -89,7 +95,7 @@
   </url>
   
   <url>
-    <loc>https://snc199x.github.io/tags/%E7%9B%97%E7%AA%83%E8%B0%8B%E6%9D%80/</loc>
+    <loc>https://snc199x.github.io/tags/%E7%9B%97%E7%AA%83/</loc>
     <lastmod>2019-10-12T19:32:07+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -149,12 +155,6 @@
   </url>
   
   <url>
-    <loc>https://snc199x.github.io/tags/%E5%AD%90%E5%BC%91%E4%BA%B2/</loc>
-    <lastmod>2019-08-07T11:57:37+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://snc199x.github.io/post/danielvalerio/</loc>
     <lastmod>2019-08-07T11:18:32+08:00</lastmod>
   </url>
@@ -162,12 +162,6 @@
   <url>
     <loc>https://snc199x.github.io/post/fionaanderson/</loc>
     <lastmod>2019-08-07T11:18:32+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://snc199x.github.io/tags/%E6%AF%8D%E5%BC%91%E4%BA%B2/</loc>
-    <lastmod>2019-08-07T11:18:32+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -182,19 +176,13 @@
   </url>
   
   <url>
-    <loc>https://snc199x.github.io/tags/%E5%8F%8B%E4%BA%BA%E8%B0%8B%E6%9D%80/</loc>
+    <loc>https://snc199x.github.io/tags/%E6%9C%8B%E5%8F%8B/</loc>
     <lastmod>2019-06-05T21:42:42+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://snc199x.github.io/categories/%E6%97%A5%E6%9C%AC/</loc>
-    <lastmod>2019-05-24T19:10:19+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://snc199x.github.io/tags/%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA/</loc>
     <lastmod>2019-05-24T19:10:19+08:00</lastmod>
     <priority>0</priority>
   </url>
